@@ -1,6 +1,6 @@
 # NSR Sustainability Index: Data and Code Repository
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19658577.svg)](https://doi.org/10.5281/zenodo.19658577)
 
 ## Overview
 
